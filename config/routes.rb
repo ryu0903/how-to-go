@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
-  root 'toppages#home'
+  root to: 'toppages#home'
   
 end
