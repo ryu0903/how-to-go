@@ -49,7 +49,6 @@ test:
 #
 production:
   adapter: postgresql
-  database: db/production.postgresql
   encoding: unicode
   pool: 5
   database: how-to-go_production
